@@ -1,6 +1,6 @@
 # URL Storage Query
 
-![Using the URL to store parameters](<../.gitbook/assets/datasource\_url\_flow.drawio (1).png>)
+![Using the URL to store parameters](../.gitbook/assets/datasource\_url\_flow.drawio.png)
 
 Any parameter which needs to be stored between visits can be kept in the URL. This means those parameters are intrinsic to whatever is being visited, such as the page when listing data.
 
