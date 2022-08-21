@@ -8,4 +8,5 @@
 
 ## CRUD view
 
-* [View flow](crud-view/view-flow.md)
+* [View flow](crud-view/view-flow/README.md)
+  * [Error flow](crud-view/view-flow/error-flow.md)
