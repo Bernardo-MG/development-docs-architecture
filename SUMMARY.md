@@ -3,7 +3,8 @@
 ## Query API
 
 * [Queries in the Frontend](README.md)
-  * [URL Storage Query](query-api/queries-in-the-frontend/url-storage-query.md)
+  * [URL Query Storage](query-api/queries-in-the-frontend/url-query-storage/README.md)
+    * [Components](query-api/queries-in-the-frontend/url-query-storage/components.md)
   * [Pagination](query-api/queries-in-the-frontend/pagination.md)
 
 ## CRUD view
