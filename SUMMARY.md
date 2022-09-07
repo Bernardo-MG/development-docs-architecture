@@ -4,7 +4,7 @@
 
 * [Queries in the Frontend](README.md)
   * [URL Query Storage](query-api/queries-in-the-frontend/url-storage-query.md)
-    * [Components](query-api/queries-in-the-frontend/url-query-storage/components.md)
+    * [Generic Components](query-api/queries-in-the-frontend/url-query-storage/generic-components.md)
   * [Pagination](query-api/queries-in-the-frontend/pagination.md)
 
 ## CRUD view
