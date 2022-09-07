@@ -4,7 +4,7 @@
 
 We are keeping two separate flows. One for writing the arguments, another for reading them.
 
-![Using the URL to store parameters](../../../.gitbook/assets/datasource\_url\_flow.drawio.png)
+![Using the URL to store parameters](<../../../.gitbook/assets/datasource\_url\_flow.drawio (1).png>)
 
 This can be handled by a circular flow. Which actually consists on two steps, reading the parameters when loading the view, and writing the URL when the user requests a change.
 
