@@ -6,8 +6,6 @@ We are keeping two separate flows. One for writing the arguments, another for re
 
 ![Using the URL to store parameters](../../../.gitbook/assets/datasource\_url\_flow.drawio.png)
 
-Any parameter which needs to be stored between visits can be kept in the URL. This means those parameters are intrinsic to whatever is being visited, such as the page when listing data.
-
 This can be handled by a circular flow. Which actually consists on two steps, reading the parameters when loading the view, and writing the URL when the user requests a change.
 
 ## Reading Parameters
