@@ -3,8 +3,8 @@
 ## Query API
 
 * [Queries in the Frontend](README.md)
-  * [URL Query Storage](query-api/queries-in-the-frontend/url-storage-query.md)
-    * [Generic Components](query-api/queries-in-the-frontend/url-query-storage/generic-components.md)
+  * [Storing Queries in the Route](query-api/queries-in-the-frontend/storing-queries-in-the-route/README.md)
+    * [Generic Components](query-api/queries-in-the-frontend/storing-queries-in-the-route/generic-components.md)
   * [Pagination](query-api/queries-in-the-frontend/pagination.md)
 
 ## CRUD view
