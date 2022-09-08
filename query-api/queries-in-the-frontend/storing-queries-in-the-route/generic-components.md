@@ -8,17 +8,29 @@ We are keeping two separate flows. One for writing the arguments, another for re
 
 ![Updating URL parameters](../../../.gitbook/assets/actuator\_url\_flow.drawio.png)
 
+Reacts to these events:
+
+* User activates UI
+
+Does:
+
+* Updates route with parameters
+
 The actuator is called by the user, through buttons or any other UI component, such as pagination navigation. The new parameter is added to the URL.
 
 This change implies reloading the view.
 
 ## Reading Parameters
 
-![Reacting to URL changes](<../../../.gitbook/assets/observer\_url\_flow.drawio (1).png>)
+![Reacting to URL changes](../../../.gitbook/assets/observer\_url\_flow.drawio.png)
 
-The observer reads the data in these cases:
+Reacts to these events:
 
 * When the URL route changes
+
+Does:
+
+* Throws change event
 
 This means that an initial request may be needed, to set the default values.
 
