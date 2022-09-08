@@ -2,21 +2,23 @@
 
 We are keeping two separate flows. One for writing the arguments, another for reading them.
 
-![Using the URL to store parameters](../../../.gitbook/assets/datasource\_url\_flow.drawio.png)
+![Using the URL to store parameters](<../../../.gitbook/assets/datasource\_url\_flow.drawio (1).png>)
 
 ## Writing Parameters
 
-![Updating a URL with pagination parameters](<../../../.gitbook/assets/actuator\_url\_flow.drawio (2).png>)
+![Updating URL parameters](../../../.gitbook/assets/actuator\_url\_flow.drawio.png)
 
-The user can change parameters through the controllers. These are mapped to components, such as a pagination navigation, which will do the actual call to the controller. Afterwards the new parameter is sent to the URL actuator, which will add or update any required parameter to the URL.
+The actuator is called by the user, through buttons or any other UI component, such as pagination navigation. The new parameter is added to the URL.
 
 This change implies reloading the view.
 
 ## Reading Parameters
 
-![Making a request with URL parameters](<../../../.gitbook/assets/datasource\_endpoint\_flow.drawio (1).png>)
+![Reacting to URL changes](<../../../.gitbook/assets/observer\_url\_flow.drawio (1).png>)
 
-When the view is loaded the datasource reads any parameter it requires from the URL. Then makes the initial data request from it, updating the view. Any additional request will keep those parameters
+The observer reads the data in these cases:
 
-The only way to change the query parameters is by updating the URL.
+* When the URL route changes
+
+This means that an initial request may be needed, to set the default values.
 
