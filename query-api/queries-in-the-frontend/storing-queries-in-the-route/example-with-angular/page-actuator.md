@@ -1,6 +1,6 @@
 # Page Actuator
 
-<figure><img src="../../../../.gitbook/assets/angular_page_actuator.drawio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/angular_page_actuator.drawio (1).png" alt=""><figcaption></figcaption></figure>
 
 The PaginationNavigationComponent allows moving through the pages.
 
