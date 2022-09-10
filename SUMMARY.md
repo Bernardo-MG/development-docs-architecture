@@ -8,7 +8,8 @@
     * [Generic Components](query-api/queries-in-the-frontend/storing-queries-in-the-route/generic-components.md)
     * [Example With Angular](query-api/queries-in-the-frontend/storing-queries-in-the-route/example-with-angular/README.md)
       * [Pagination Observer](query-api/queries-in-the-frontend/storing-queries-in-the-route/example-with-angular/pagination-observer.md)
-      * [Pagination Actuator](query-api/queries-in-the-frontend/storing-queries-in-the-route/example-with-angular/pagination-actuator.md)
+      * [Page Actuator](query-api/queries-in-the-frontend/storing-queries-in-the-route/example-with-angular/page-actuator.md)
+      * [Page Size Actuator](query-api/queries-in-the-frontend/storing-queries-in-the-route/example-with-angular/page-size-actuator.md)
   * [Pagination](query-api/queries-in-the-frontend/pagination.md)
 
 ## CRUD view
