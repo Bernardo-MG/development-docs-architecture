@@ -23,3 +23,5 @@
 * [REST Web Service Security](security/rest-web-service-security/README.md)
   * [Basic HTTP](security/rest-web-service-security/basic-http.md)
   * [JWT](security/rest-web-service-security/jwt.md)
+* [User model](security/user-model/README.md)
+  * [User - Role - Privilege](security/user-model/user-role-privilege.md)
