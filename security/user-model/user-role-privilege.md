@@ -12,7 +12,7 @@ The user is used for authenticating. Each existing user actor has a user instanc
 
 Privileges are used for authorization. Any action watched by the security layer is associated to a privilege.
 
-Privileges are assigned through roles. Users can't receive privileges directly.
+Privileges are grouped in roles. Users can't receive privileges directly, instead they get one or more roles.
 
 ## Example
 
