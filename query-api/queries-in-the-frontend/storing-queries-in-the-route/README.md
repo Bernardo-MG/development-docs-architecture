@@ -11,3 +11,7 @@ Which data can be stored in the URL?
 * Page (page number, page size)
 * Sort (fields, direction)
 * Query (field, comparison, value)
+
+## Problems
+
+There is only a single route. This method can support a single paginated source per view.
