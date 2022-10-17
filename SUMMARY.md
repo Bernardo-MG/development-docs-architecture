@@ -2,7 +2,8 @@
 
 ## Query API
 
-* [Queries in the Frontend](README.md)
+* [Pagination and Sorting](README.md)
+* [Queries in the Frontend](<README (1).md>)
   * [Storing Queries in the Route](query-api/queries-in-the-frontend/storing-queries-in-the-route/README.md)
     * [Flow](query-api/queries-in-the-frontend/storing-queries-in-the-route/flow.md)
     * [Generic Components](query-api/queries-in-the-frontend/storing-queries-in-the-route/generic-components.md)
