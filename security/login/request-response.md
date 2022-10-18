@@ -1,12 +1,12 @@
 # Request-Response
 
-## Flow
+## Request
 
-<figure><img src="../../.gitbook/assets/login_flow.drawio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/login_request_flow.drawio.png" alt=""><figcaption><p>Login request flow</p></figcaption></figure>
 
-The frontend sends a request for a login attempt. Receiving the response with the status of said login attempt.
+The frontend sends a request for a login attempt. Receiving the response with the details of said login attempt. These details tell the status of the attempt and, if it was successful, contain any additional detail, such as auth tokens.
 
-This response will contain all the authorization data required by the frontend. Such as authentication tokens. All calculations or operations are handled by the backend.
+All calculations or operations are handled by the backend.
 
 ## Model
 
@@ -15,3 +15,6 @@ This response will contain all the authorization data required by the frontend. 
 The LoginRequest is used on the request.
 
 LoginDetails is the response returned after the login attempt. If the attempt failed then the logged flag is set as false.
+
+## Flow
+
