@@ -11,11 +11,15 @@
       * [Pagination Observer](query-api/queries-in-the-frontend/storing-queries-in-the-route/example-with-angular/pagination-observer.md)
       * [Page Actuator](query-api/queries-in-the-frontend/storing-queries-in-the-route/example-with-angular/page-actuator.md)
       * [Page Size Actuator](query-api/queries-in-the-frontend/storing-queries-in-the-route/example-with-angular/page-size-actuator.md)
-  * [Pagination](query-api/queries-in-the-frontend/pagination/README.md)
+  * [Pagination](query-api/queries-in-the-frontend/pagination.md)
     * [Model](query-api/queries-in-the-frontend/pagination/model.md)
+    * [Observer](query-api/queries-in-the-frontend/pagination/observer.md)
     * [Pagination Navigation](query-api/queries-in-the-frontend/pagination/pagination-navigation.md)
     * [Page Size Selection](query-api/queries-in-the-frontend/pagination/page-size-selection.md)
-    * [Pagination Observer](query-api/queries-in-the-frontend/pagination/pagination-observer.md)
+  * [Sorting](query-api/queries-in-the-frontend/sorting/README.md)
+    * [Model](query-api/queries-in-the-frontend/sorting/model.md)
+    * [Observer](query-api/queries-in-the-frontend/sorting/observer.md)
+    * [Order Switch](query-api/queries-in-the-frontend/sorting/order-switch.md)
 
 ## CRUD view
 
