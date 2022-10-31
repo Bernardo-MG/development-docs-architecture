@@ -1,2 +1,0 @@
-# Example With Angular
-

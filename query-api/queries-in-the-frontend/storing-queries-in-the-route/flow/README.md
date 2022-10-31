@@ -2,7 +2,7 @@
 
 This works with two distinct flows. One for updating and another for reading. While both are handled by the controller, and both are bound to interactions in the view, they are to be kept isolated. The only way they can interact is through the URL.
 
-<figure><img src="../../../.gitbook/assets/general_flow.drawio.png" alt=""><figcaption><p>URL flow</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/general_flow.drawio.png" alt=""><figcaption><p>URL flow</p></figcaption></figure>
 
 Using pagination as the example. When a user request a page this changes the URL. Then the controller reacts to this change, reads the page and updated the data.
 
@@ -11,7 +11,13 @@ So we have two steps in a circular flow:
 * Write URL parameters
 * Read URL arguments and update data
 
-### Writing parameters
+## Expanded flow
+
+We are keeping two separate flows. One for writing the arguments, another for reading them.
+
+![Using the URL to store parameters](<../../../../.gitbook/assets/datasource\_url\_flow.drawio (1).png>)
+
+## Writing parameters
 
 Done by the user. When using an UI component.
 
@@ -20,7 +26,7 @@ Done by the user. When using an UI component.
 3. New URL argument is read (page number)
 4. Data is updated (read for page)
 
-### Reading parameters
+## Reading parameters
 
 Done automatically, when loading a URL.
 
