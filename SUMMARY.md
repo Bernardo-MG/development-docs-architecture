@@ -11,7 +11,11 @@
       * [Pagination Observer](query-api/queries-in-the-frontend/storing-queries-in-the-route/example-with-angular/pagination-observer.md)
       * [Page Actuator](query-api/queries-in-the-frontend/storing-queries-in-the-route/example-with-angular/page-actuator.md)
       * [Page Size Actuator](query-api/queries-in-the-frontend/storing-queries-in-the-route/example-with-angular/page-size-actuator.md)
-  * [Pagination](query-api/queries-in-the-frontend/pagination.md)
+  * [Pagination](query-api/queries-in-the-frontend/pagination/README.md)
+    * [Model](query-api/queries-in-the-frontend/pagination/model.md)
+    * [Pagination Navigation](query-api/queries-in-the-frontend/pagination/pagination-navigation.md)
+    * [Page Size Selection](query-api/queries-in-the-frontend/pagination/page-size-selection.md)
+    * [Pagination Observer](query-api/queries-in-the-frontend/pagination/pagination-observer.md)
 
 ## CRUD view
 
