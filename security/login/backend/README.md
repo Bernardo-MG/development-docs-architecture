@@ -2,11 +2,6 @@
 
 ## Flow
 
-1. Validate credentials from the login request
-2. Generate login details
+<figure><img src="../../../.gitbook/assets/login_flow_backend.drawio.png" alt=""><figcaption><p>Backend login flow</p></figcaption></figure>
 
-## Validation
-
-1. Validate user exists for username
-2. Find user
-3. Validate password
+The login service validates the credentials from the request, and then returns the login status.

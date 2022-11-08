@@ -4,7 +4,11 @@
 
 ## Flow
 
+1. Validate login
+2. Return status
+
+## Validations
+
 * Validate user exists
 * Validate password matchs existing
 * Validate user status (not disabled)
-* Return status
