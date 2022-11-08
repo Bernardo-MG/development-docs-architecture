@@ -9,7 +9,7 @@ The navigation component should be able to change the route, and update itself w
 * Change the current page
 * Update when the page is changed
 
-## Flow
+## Route Flow
 
 When the user navigates to another page:
 
@@ -23,3 +23,11 @@ When the URL pagination parameters change:
 
 * Current page
 * First/last page flag
+
+## How it works
+
+The previous and next buttons depend on the first and last page flag. As long as it is not the first page, it allows going back to the previous one. The same for the next page if it isn't the last one.
+
+The current page is shown in a text input, which can be edited to change to another page.
+
+All these cases end in the same
