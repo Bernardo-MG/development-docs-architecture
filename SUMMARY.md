@@ -32,6 +32,7 @@
 * [Login](security/login/README.md)
   * [Request-Response](security/login/request-response.md)
   * [Backend](security/login/backend/README.md)
+    * [Basic Login Service](security/login/backend/basic-login-service.md)
     * [Token Login Service](security/login/backend/token-login-service.md)
   * [Frontend](security/login/frontend.md)
 * [REST Web Service Security](security/rest-web-service-security/README.md)
