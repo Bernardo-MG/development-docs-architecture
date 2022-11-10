@@ -30,7 +30,7 @@
 
 * [Authentication and Authorization](security/authentication-and-authorization.md)
 * [Login](security/login/README.md)
-  * [Request-Response Flow](security/login/request-response-flow.md)
+  * [Flow](security/login/flow.md)
   * [Request-Response Model](security/login/request-response-model.md)
   * [Backend](security/login/backend/README.md)
     * [Basic Login Service](security/login/backend/basic-login-service.md)
