@@ -4,9 +4,11 @@
 
 1. User fills form
 2. Login request is sent to the backend
-3. Request is validated
-4. Status with login result is returned to the frontend
-5. Frontend handles status response
+   * Request is validated
+   * Login status is returned to the frontend
+3. Frontend handles status response
+   * If successful, the user is now authenticated
+   * Otherwise, the user isn't authenticated
 
 
 
