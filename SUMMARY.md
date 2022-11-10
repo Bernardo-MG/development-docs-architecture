@@ -37,7 +37,7 @@
     * [Token Login Service](security/login/backend/token-login-service.md)
   * [Frontend](security/login/frontend.md)
 * [Sign Up](security/sign-up/README.md)
-  * [Request-Response Flow](security/sign-up/request-response-flow.md)
+  * [Flow](security/sign-up/flow.md)
   * [Request-Response Model](security/sign-up/request-response-model.md)
   * [Backend](security/sign-up/backend.md)
   * [Frontend](security/sign-up/frontend.md)

@@ -1,6 +1,6 @@
-# Request-Response Flow
+# Flow
 
-
+<figure><img src="../../.gitbook/assets/sign_up_bpmn.drawio.png" alt=""><figcaption><p>Sign up flow</p></figcaption></figure>
 
 The first part is started by the user.
 
