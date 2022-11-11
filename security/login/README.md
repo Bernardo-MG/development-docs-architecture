@@ -2,18 +2,31 @@
 
 Authenticates a user. The frontend offers a form, which takes the credentials and sends it to the backend.
 
+## Use cases
+
+Existing user wants to:
+
+* Log into the application
+
+### Constraints
+
+* The user should exist
+* The password should matche the user password
+* The user should be valid
+
+### Extensions
+
+* Basic authentication (username/password)
+* Token authentication
+
 ## Flow
 
 <figure><img src="../../.gitbook/assets/login_bpmn.drawio.png" alt=""><figcaption><p>Login request flow</p></figcaption></figure>
 
-## Requests model
+## Model
 
-
+Communication between the client and login service makes use of this model.
 
 <figure><img src="../../.gitbook/assets/login_model.drawio.png" alt=""><figcaption><p>Login model</p></figcaption></figure>
 
-The LoginRequest is, as it says, the request for a log in attempt.
-
-LoginStatus is the response after that login attempt. Mainly it tells of the attempt was successful or not, through the logged flag. But it may contain additional info, such as authentication tokens.
-
-The password is received, but never returned to the frontend.
+This covers both authentication cases supported: basic and token.
