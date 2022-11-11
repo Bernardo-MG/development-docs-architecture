@@ -29,4 +29,4 @@ Communication between the client and login service makes use of this model.
 
 <figure><img src="../../.gitbook/assets/login_model.drawio.png" alt=""><figcaption><p>Login model</p></figcaption></figure>
 
-This covers both authentication cases supported: basic and token.
+This covers both authentication cases supported: basic and with token.

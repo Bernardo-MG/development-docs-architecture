@@ -6,8 +6,12 @@ Creates a new password for an existing user.
 
 Existing user wants to:
 
-* Create a new password, identifying himself with the username
-* Create a new password, identifying himself with the email
+* Replace his password with a new password, without logging in
+
+### Extensions
+
+* The user can identify himself with the username
+* The user can identify himself with the email
 
 ## Flow
 

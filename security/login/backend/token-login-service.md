@@ -1,5 +1,7 @@
 # Token Login Service
 
+Extends over the basic service, adding authentication token support.
+
 <figure><img src="../../../.gitbook/assets/login_token_service.drawio.png" alt=""><figcaption><p>Login service classes</p></figcaption></figure>
 
 ## Flow
