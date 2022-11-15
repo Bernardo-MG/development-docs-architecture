@@ -40,6 +40,7 @@
 * [Password Recovery](security/password-recovery/README.md)
   * [Backend](security/password-recovery/backend.md)
   * [Frontend](security/password-recovery/frontend.md)
+* [Password Change](security/password-change.md)
 * [REST Web Service Security](security/rest-web-service-security/README.md)
   * [Basic HTTP](security/rest-web-service-security/basic-http.md)
   * [JWT](security/rest-web-service-security/jwt.md)
