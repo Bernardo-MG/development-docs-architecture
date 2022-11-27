@@ -26,7 +26,7 @@
 
 * [Kinds](errors/kinds.md)
 * [Error handling](errors/error-handling.md)
-* [Model](errors/model.md)
+* [Response Model](errors/response-model.md)
 
 ## Security
 
