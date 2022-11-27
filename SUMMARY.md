@@ -20,6 +20,7 @@
     * [Observer](query-api/queries-in-the-frontend/sorting/observer.md)
     * [Components](query-api/queries-in-the-frontend/sorting/components/README.md)
       * [Order Switch](query-api/queries-in-the-frontend/sorting/components/order-switch.md)
+* [Response Model](query-api/response-model.md)
 
 ## Errors
 
