@@ -21,10 +21,9 @@
     * [Components](query-api/queries-in-the-frontend/sorting/components/README.md)
       * [Order Switch](query-api/queries-in-the-frontend/sorting/components/order-switch.md)
 
-## CRUD view
+## Errors
 
-* [View flow](crud-view/view-flow/README.md)
-  * [Error flow](crud-view/view-flow/error-flow.md)
+* [Error handling](errors/error-handling.md)
 
 ## Security
 
@@ -46,3 +45,8 @@
   * [JWT](security/rest-web-service-security/jwt.md)
 * [User model](security/user-model/README.md)
   * [User - Role - Privilege](security/user-model/user-role-privilege.md)
+
+## CRUD view
+
+* [View flow](crud-view/view-flow/README.md)
+  * [Error flow](crud-view/view-flow/error-flow.md)
