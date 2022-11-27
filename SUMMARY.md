@@ -23,6 +23,7 @@
 
 ## Errors
 
+* [Kinds](errors/kinds.md)
 * [Error handling](errors/error-handling.md)
 
 ## Security
