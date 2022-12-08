@@ -2,7 +2,7 @@
 
 Listing and editing entries. Doesn't cover error handling.
 
-![](<../../.gitbook/assets/crud\_flow.drawio (1).png>)
+![](../../.gitbook/assets/crud\_flow.drawio.png)
 
 ## List
 
