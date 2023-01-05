@@ -4,7 +4,7 @@
 
 ## Flow
 
-On build:
+On component build:
 
 * Add listener to route. When the parameters change:
   * Send parameters to parse
