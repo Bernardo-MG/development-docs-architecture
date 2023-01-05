@@ -8,6 +8,7 @@
     * [Flow](query-api/queries-in-the-frontend/storing-queries-in-the-route/flow/README.md)
       * [Writing Parameters](query-api/queries-in-the-frontend/storing-queries-in-the-route/flow/writing-parameters.md)
       * [Reading Parameters](query-api/queries-in-the-frontend/storing-queries-in-the-route/flow/reading-parameters.md)
+    * [Observer](query-api/queries-in-the-frontend/storing-queries-in-the-route/observer.md)
   * [Example Component](query-api/queries-in-the-frontend/example-component.md)
   * [Pagination](query-api/queries-in-the-frontend/pagination.md)
     * [Model](query-api/queries-in-the-frontend/pagination/model.md)
