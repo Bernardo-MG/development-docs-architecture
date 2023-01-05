@@ -5,7 +5,7 @@
 * [Pagination and Sorting](README.md)
 * [Queries in the Frontend](<README (1).md>)
   * [Storing Queries in the Route](query-api/queries-in-the-frontend/storing-queries-in-the-route/README.md)
-    * [Flow](query-api/queries-in-the-frontend/storing-queries-in-the-route/flow.md)
+    * [Design](query-api/queries-in-the-frontend/storing-queries-in-the-route/design.md)
     * [Actuator](query-api/queries-in-the-frontend/storing-queries-in-the-route/actuator.md)
     * [Observer](query-api/queries-in-the-frontend/storing-queries-in-the-route/observer.md)
   * [Example Component](query-api/queries-in-the-frontend/example-component.md)
