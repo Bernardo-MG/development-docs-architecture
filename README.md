@@ -1,13 +1,6 @@
 # Pagination and Sorting
 
-## Sorting
+Used to defines the data subset being recovered from the backend.
 
-Pairs of property and direction.
+This is handled in two directions. First the paginated request, then the paginated response.
 
-Direction is one of:
-
-* Unsorted
-* Ascending
-* Descending
-
-In most cases the unsorted status won't be used. But can be needed for example in the frontend, when there is an optional sorting.

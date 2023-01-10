@@ -3,6 +3,8 @@
 ## Query API
 
 * [Pagination and Sorting](README.md)
+  * [Request](query-api/pagination-and-sorting/request.md)
+  * [Response](query-api/pagination-and-sorting/response.md)
 * [Queries in the Frontend](<README (1).md>)
   * [Storing Queries in the Route](query-api/queries-in-the-frontend/storing-queries-in-the-route/README.md)
     * [Design](query-api/queries-in-the-frontend/storing-queries-in-the-route/design.md)
