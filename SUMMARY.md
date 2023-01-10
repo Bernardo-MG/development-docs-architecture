@@ -10,7 +10,6 @@
     * [Design](query-api/queries-in-the-frontend/storing-queries-in-the-route/design.md)
     * [Actuator](query-api/queries-in-the-frontend/storing-queries-in-the-route/actuator.md)
     * [Observer](query-api/queries-in-the-frontend/storing-queries-in-the-route/observer.md)
-  * [Example Component](query-api/queries-in-the-frontend/example-component.md)
   * [Pagination](query-api/queries-in-the-frontend/pagination.md)
     * [Model](query-api/queries-in-the-frontend/pagination/model.md)
     * [Observer](query-api/queries-in-the-frontend/pagination/observer.md)
