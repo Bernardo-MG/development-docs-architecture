@@ -12,14 +12,10 @@ Does:
 
 This means that an initial request may be needed, to set the default values.
 
+## Flow
+
+<figure><img src="../../../.gitbook/assets/business_route_observer_changed_params.drawio.png" alt=""><figcaption><p>Parameter observer flow</p></figcaption></figure>
+
 ## Model
 
 <figure><img src="../../../.gitbook/assets/route_observer.drawio.png" alt=""><figcaption><p>Route parameters observer</p></figcaption></figure>
-
-## Flow
-
-On component build:
-
-* Add listener to route. When the parameters change:
-  * Send parameters to parse
-  * Set parse result into subject
