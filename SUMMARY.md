@@ -2,7 +2,7 @@
 
 ## Query API
 
-* [Pagination and Sorting](query-api/pagination-and-sorting/request.md)
+* [Pagination and Sorting](query-api/pagination-and-sorting/README.md)
   * [Request](query-api/pagination-and-sorting/request.md)
   * [Response](query-api/pagination-and-sorting/response.md)
 * [Queries in the Frontend](<README.md>)
