@@ -18,7 +18,7 @@ There is a single route for each view, so the context is applied to the full pag
 
 ## Generic Design
 
-<figure><img src="../../../.gitbook/assets/general_flow.drawio.png" alt=""><figcaption><p>URL flow</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/general_flow.drawio.png" alt=""><figcaption><p>URL flow</p></figcaption></figure>
 
 Reading and writing parameter are two distinct flows. They are kept isolated, so the only way they can interact is through the URL.
 

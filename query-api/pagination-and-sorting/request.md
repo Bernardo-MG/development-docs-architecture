@@ -1,6 +1,6 @@
 # Request
 
-<figure><img src="../.gitbook/assets/model_pagination.drawio.png" alt=""><figcaption><p>Pagination model</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/model_pagination.drawio.png" alt=""><figcaption><p>Pagination model</p></figcaption></figure>
 
 ## Sort
 

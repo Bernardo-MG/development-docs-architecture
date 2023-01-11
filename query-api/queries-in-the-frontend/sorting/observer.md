@@ -1,6 +1,6 @@
 # Observer
 
-<figure><img src="../../.gitbook/assets/sorting_observer_frontend_class.drawio.png" alt=""><figcaption><p>Sorting Observer</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sorting_observer_frontend_class.drawio.png" alt=""><figcaption><p>Sorting Observer</p></figcaption></figure>
 
 ## Use
 
