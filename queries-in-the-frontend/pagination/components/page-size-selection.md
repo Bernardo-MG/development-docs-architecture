@@ -2,7 +2,7 @@
 
 The page size selector does what it says. It sets the size of the requested pages.
 
-<figure><img src="../../../../.gitbook/assets/pagination_size_selector_frontend_class.drawio.png" alt=""><figcaption><p>Pagination Size Selector</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/pagination_size_selector_frontend_class.drawio.png" alt=""><figcaption><p>Pagination Size Selector</p></figcaption></figure>
 
 ## Use
 

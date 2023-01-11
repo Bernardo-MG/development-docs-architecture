@@ -2,7 +2,7 @@
 
 An URL observers allows reacting to changes on the URL pagination parameters.
 
-<figure><img src="../../../.gitbook/assets/pagination_observer_frontend_class.drawio.png" alt=""><figcaption><p>Pagination Observer</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pagination_observer_frontend_class.drawio.png" alt=""><figcaption><p>Pagination Observer</p></figcaption></figure>
 
 ## Use
 

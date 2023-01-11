@@ -2,7 +2,7 @@
 
 Sorts a property on a click. Cycles between all the sorting status, including unsorted.
 
-<figure><img src="../../../../.gitbook/assets/sorting_order_switch_frontend_class.drawio.png" alt=""><figcaption><p>Order Switch</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sorting_order_switch_frontend_class.drawio.png" alt=""><figcaption><p>Order Switch</p></figcaption></figure>
 
 ## Use
 

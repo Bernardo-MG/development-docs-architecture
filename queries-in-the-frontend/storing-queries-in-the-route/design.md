@@ -1,6 +1,6 @@
 # Design
 
-![Flows handled through components](../../../.gitbook/assets/datasource\_url\_flow.drawio.png)
+![Flows handled through components](../../.gitbook/assets/datasource\_url\_flow.drawio.png)
 
 We will use a component for each flow, with no dependency between them:
 

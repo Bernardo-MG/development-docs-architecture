@@ -2,7 +2,7 @@
 
 The navigation component should be able to change the route, and update itself when it changes. For this reason it requires and actuator and observer.
 
-![Pagination navigation](../../../../.gitbook/assets/pagination\_navigation\_frontend\_class.drawio.png)
+![Pagination navigation](../../../.gitbook/assets/pagination\_navigation\_frontend\_class.drawio.png)
 
 ## Use
 
