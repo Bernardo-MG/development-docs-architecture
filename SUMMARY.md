@@ -3,25 +3,27 @@
 ## Requests
 
 * [Request-Response Model](README.md)
-* [Pagination and Sorting](<README (1).md>)
-  * [Request](requests/pagination-and-sorting/request.md)
-  * [Response](requests/pagination-and-sorting/response.md)
-* [Queries in the Frontend](requests/readme/README.md)
-  * [Storing Queries in the Route](requests/readme/storing-queries-in-the-route/README.md)
-    * [Design](requests/readme/storing-queries-in-the-route/design.md)
-    * [Actuator](requests/readme/storing-queries-in-the-route/actuator.md)
-    * [Observer](requests/readme/storing-queries-in-the-route/observer.md)
-  * [Pagination](requests/readme/pagination/README.md)
-    * [Model](requests/readme/pagination/model.md)
-    * [Observer](requests/readme/pagination/observer.md)
-    * [Components](requests/readme/pagination/components/README.md)
-      * [Pagination Navigation](requests/readme/pagination/components/pagination-navigation.md)
-      * [Page Size Selection](requests/readme/pagination/components/page-size-selection.md)
-  * [Sorting](requests/readme/sorting/README.md)
-    * [Model](requests/readme/sorting/model.md)
-    * [Observer](requests/readme/sorting/observer.md)
-    * [Components](requests/readme/sorting/components/README.md)
-      * [Order Switch](requests/readme/sorting/components/order-switch.md)
+* [Queries in the Frontend](requests/queries-in-the-frontend/README.md)
+  * [Storing Queries in the Route](requests/queries-in-the-frontend/storing-queries-in-the-route/README.md)
+    * [Design](requests/queries-in-the-frontend/storing-queries-in-the-route/design.md)
+    * [Actuator](requests/queries-in-the-frontend/storing-queries-in-the-route/actuator.md)
+    * [Observer](requests/queries-in-the-frontend/storing-queries-in-the-route/observer.md)
+  * [Pagination](requests/queries-in-the-frontend/pagination/README.md)
+    * [Model](requests/queries-in-the-frontend/pagination/model.md)
+    * [Observer](requests/queries-in-the-frontend/pagination/observer.md)
+    * [Components](requests/queries-in-the-frontend/pagination/components/README.md)
+      * [Pagination Navigation](requests/queries-in-the-frontend/pagination/components/pagination-navigation.md)
+      * [Page Size Selection](requests/queries-in-the-frontend/pagination/components/page-size-selection.md)
+  * [Sorting](requests/queries-in-the-frontend/sorting/README.md)
+    * [Model](requests/queries-in-the-frontend/sorting/model.md)
+    * [Observer](requests/queries-in-the-frontend/sorting/observer.md)
+    * [Components](requests/queries-in-the-frontend/sorting/components/README.md)
+      * [Order Switch](requests/queries-in-the-frontend/sorting/components/order-switch.md)
+
+## Pagination
+
+* [Model](pagination/model.md)
+* [Response](pagination/response.md)
 
 ## Errors
 
