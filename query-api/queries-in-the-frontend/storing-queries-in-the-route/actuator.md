@@ -1,6 +1,6 @@
 # Actuator
 
-![Updating URL parameters](../../../.gitbook/assets/actuator\_url\_flow.drawio.png)
+<figure><img src="../../../.gitbook/assets/actuator_url_flow.drawio.png" alt=""><figcaption><p>Updating URL parameters</p></figcaption></figure>
 
 Reacts to these events:
 

@@ -1,6 +1,6 @@
 # Observer
 
-![Reacting to URL changes](../../../.gitbook/assets/observer\_url\_flow.drawio.png)
+<figure><img src="../../../.gitbook/assets/observer_url_flow.drawio.png" alt=""><figcaption><p>Reacting to URL changes</p></figcaption></figure>
 
 Reacts to these events:
 
