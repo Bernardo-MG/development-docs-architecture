@@ -28,7 +28,8 @@
 
 ## Sorting
 
-* [Model](sorting/model.md)
+* [Request](sorting/request.md)
+* [Response](sorting/response.md)
 
 ## Filtering
 
