@@ -26,6 +26,14 @@
 * [Page](pagination/page.md)
 * [Response](pagination/response.md)
 
+## Sorting
+
+* [Model](sorting/model.md)
+
+## Filtering
+
+* [Response](filtering/response.md)
+
 ## Errors
 
 * [Request Errors](errors/request-errors/README.md)
