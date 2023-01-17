@@ -27,7 +27,7 @@
 
 * [Request Errors](errors/request-errors/README.md)
   * [Types](errors/request-errors/types.md)
-  * [Problem Response](errors/request-errors/problem-response.md)
+  * [Response](errors/request-errors/response.md)
 * [Error handling](errors/error-handling.md)
 
 ## Security
