@@ -2,7 +2,8 @@
 
 ## Requests
 
-* [Pagination and Sorting](README.md)
+* [Request-Response Model](README.md)
+* [Pagination and Sorting](<README (1).md>)
   * [Request](requests/pagination-and-sorting/request.md)
   * [Response](requests/pagination-and-sorting/response.md)
 * [Queries in the Frontend](requests/readme/README.md)
@@ -24,7 +25,9 @@
 
 ## Errors
 
-* [Request Errors](errors/kinds.md)
+* [Request Errors](errors/request-errors/README.md)
+  * [Types](errors/request-errors/types.md)
+  * [Problem Response](errors/request-errors/problem-response.md)
 * [Error handling](errors/error-handling.md)
 
 ## Security
