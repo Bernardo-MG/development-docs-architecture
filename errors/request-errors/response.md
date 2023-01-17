@@ -10,6 +10,6 @@ Any details required to give meaning to the response will come in the response c
 
 #### Properties
 
-<figure><img src="../../.gitbook/assets/model_validation_failure.drawio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/model_property_failure.drawio.png" alt=""><figcaption></figcaption></figure>
 
 Used for example for validation errors.
