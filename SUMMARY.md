@@ -22,7 +22,8 @@
 
 ## Pagination
 
-* [Model](pagination/model.md)
+* [Request](pagination/request.md)
+* [Page](pagination/page.md)
 * [Response](pagination/response.md)
 
 ## Errors
