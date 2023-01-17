@@ -1,27 +1,26 @@
 # Table of contents
 
-## Query API
+## Requests
 
-* [Pagination and Sorting](query-api/pagination-and-sorting/README.md)
-  * [Request](query-api/pagination-and-sorting/request.md)
-  * [Response](query-api/pagination-and-sorting/response.md)
-* [Queries in the Frontend](<README.md>)
-  * [Storing Queries in the Route](query-api/queries-in-the-frontend/storing-queries-in-the-route/README.md)
-    * [Design](query-api/queries-in-the-frontend/storing-queries-in-the-route/design.md)
-    * [Actuator](query-api/queries-in-the-frontend/storing-queries-in-the-route/actuator.md)
-    * [Observer](query-api/queries-in-the-frontend/storing-queries-in-the-route/observer.md)
-  * [Pagination](query-api/queries-in-the-frontend/pagination.md)
-    * [Model](query-api/queries-in-the-frontend/pagination/model.md)
-    * [Observer](query-api/queries-in-the-frontend/pagination/observer.md)
-    * [Components](query-api/queries-in-the-frontend/pagination/components/README.md)
-      * [Pagination Navigation](query-api/queries-in-the-frontend/pagination/components/pagination-navigation.md)
-      * [Page Size Selection](query-api/queries-in-the-frontend/pagination/components/page-size-selection.md)
-  * [Sorting](query-api/queries-in-the-frontend/sorting/README.md)
-    * [Model](query-api/queries-in-the-frontend/sorting/model.md)
-    * [Observer](query-api/queries-in-the-frontend/sorting/observer.md)
-    * [Components](query-api/queries-in-the-frontend/sorting/components/README.md)
-      * [Order Switch](query-api/queries-in-the-frontend/sorting/components/order-switch.md)
-* [Response Model](query-api/queries-in-the-frontend/response-model.md)
+* [Pagination and Sorting](README.md)
+  * [Request](requests/pagination-and-sorting/request.md)
+  * [Response](requests/pagination-and-sorting/response.md)
+* [Queries in the Frontend](requests/readme/README.md)
+  * [Storing Queries in the Route](requests/readme/storing-queries-in-the-route/README.md)
+    * [Design](requests/readme/storing-queries-in-the-route/design.md)
+    * [Actuator](requests/readme/storing-queries-in-the-route/actuator.md)
+    * [Observer](requests/readme/storing-queries-in-the-route/observer.md)
+  * [Pagination](requests/readme/pagination/README.md)
+    * [Model](requests/readme/pagination/model.md)
+    * [Observer](requests/readme/pagination/observer.md)
+    * [Components](requests/readme/pagination/components/README.md)
+      * [Pagination Navigation](requests/readme/pagination/components/pagination-navigation.md)
+      * [Page Size Selection](requests/readme/pagination/components/page-size-selection.md)
+  * [Sorting](requests/readme/sorting/README.md)
+    * [Model](requests/readme/sorting/model.md)
+    * [Observer](requests/readme/sorting/observer.md)
+    * [Components](requests/readme/sorting/components/README.md)
+      * [Order Switch](requests/readme/sorting/components/order-switch.md)
 
 ## Errors
 

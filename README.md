@@ -1,3 +1,2 @@
-# Architecture Docs
+# Pagination and Sorting
 
-Documentation and notes for software architecture.
