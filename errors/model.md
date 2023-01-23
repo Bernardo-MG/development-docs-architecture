@@ -1,6 +1,6 @@
 # Model
 
-<figure><img src="../.gitbook/assets/model_error (1).png" alt=""><figcaption><p>Error model</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/model_error.png" alt=""><figcaption><p>Error model</p></figcaption></figure>
 
 ### Context
 
